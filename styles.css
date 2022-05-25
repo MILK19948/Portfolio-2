@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(218, 240, 208);
+    color: rgb(0, 0, 0);
+}
+
+img {
+    border-radius: 100%;
+}
+
+.para {
+    float: right;
+    
+}
+
+ul > li {
+    text-decoration: none;
+}
